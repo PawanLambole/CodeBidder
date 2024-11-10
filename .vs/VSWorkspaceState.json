@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Models",
+    "\\Views",
+    "\\Views\\ClientDashboard",
+    "\\Views\\Home",
+    "\\Views\\Shared",
+    "\\wwwroot"
+  ],
+  "SelectedNode": "\\CodeBidder.sln",
+  "PreviewInSolutionExplorer": false
+}
